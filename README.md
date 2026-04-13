@@ -5,3 +5,4 @@ Tikslas: sukurti programą puslapį PHP OOP skirtą slaptažodžių generavimui,
 <b>Eigos istorija:</b>
 <br>2026-04-13 18:24 Sukurta failų struktūra ir įkelta į GITHUB
 <br>2026-04-13 18:37 Sukurta duomenų bazė
+<br>2026-04-13 18:41 Prijungta duomenų bazė
