@@ -6,3 +6,4 @@ Tikslas: sukurti programą puslapį PHP OOP skirtą slaptažodžių generavimui,
 <br>2026-04-13 18:24 Sukurta failų struktūra ir įkelta į GITHUB
 <br>2026-04-13 18:37 Sukurta duomenų bazė
 <br>2026-04-13 18:41 Prijungta duomenų bazė
+<br>2026-04-21 21:05 Sukurta Database klasę prisijungimui prie MySQL duomenų bazės, Encryptor klasę AES šifravimui, iššifravimui ir rakto generavimui, User klasę vartotojų registracijai, prisijungimui ir slaptažodžio keitimui, PasswordGenerator klasę slaptažodžių generavimui pagal pasirinktus parametrus bei PasswordEntry klasę slaptažodžių saugojimui, atvaizdavimui ir iššifravimui.
